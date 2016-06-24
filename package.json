@@ -1,0 +1,22 @@
+{
+	"name": "svg-colors",
+	"description": "Lots of colorful SVGs from one boring one",
+	"version": "1.0.0",
+	"devDependencies": {
+		"del": "2.2.x",
+		"gulp": "^3.9.x",
+		"gulp-contrib-copy": "0.1.x",
+		"gulp-raster": "0.1.0",
+		"gulp-rename": "1.2.x",
+		"gulp-replace": "0.5.4"
+	},
+	"author": "Gareth James",
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.1"
+	},
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
